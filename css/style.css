@@ -57,6 +57,7 @@ body{
     padding:0 30px;
     box-sizing:border-box;
 }
+
 #sidebar{
     float:right;
     width: 30%;
@@ -68,6 +69,14 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.main-box{
+    border: solid lightgrey;
+    margin-top: 20px;
+    font-size: 16px;
+    
+}
+
 #main-footer{
     background: #333;
     color: #fff;
